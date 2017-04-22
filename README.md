@@ -1,0 +1,1 @@
+Repository for the code of the book "Introducing Go".
